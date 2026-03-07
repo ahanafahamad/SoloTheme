@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://www.google.com/search?q=https://raw.githubusercontent.com/CodeMonarch/SoloTheme/main/icon.png" width="128" height="128" alt="CodeMonarch Logo" onerror="this.src='https://www.google.com/search?q=https://placehold.co/128x128/050608/9D4EDD%3Ftext%3DSoloTheme'">
+<img src="./icon.png" width="128" height="128" alt="SoloTheme Logo" onerror="this.style.display='none'">
 <h1>SoloTheme: Shadow Monarch Edition</h1>
 <p><b>Awaken your code. Rule the shadows.</b></p>
 
@@ -33,8 +33,8 @@ Tektur Integration: Optimized to look exceptional with futuristic variable-width
 📸 Preview
 
 <div align="center">
-<img src="https://i.ibb.co.com/G4P1MtjY/Screenshot-2.png" width="100%" alt="SoloTheme Preview" onerror="this.style.display='none'">
-<p><i>The Shadow Monarch Edition in action using Tektur Font.</i></p>
+<img src="./thumblain/Screenshot (2).png" width="100%" alt="SoloTheme Preview" onerror="this.style.display='none'">
+<p><i>The Shadow Monarch Edition.</i></p>
 </div>
 
 🛠 Installation
