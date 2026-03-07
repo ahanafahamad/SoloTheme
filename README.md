@@ -33,7 +33,7 @@ Tektur Integration: Optimized to look exceptional with futuristic variable-width
 📸 Preview
 
 <div align="center">
-<img src="https://www.google.com/search?q=https://raw.githubusercontent.com/CodeMonarch/SoloTheme/main/screenshots/main_preview.png" width="100%" alt="SoloTheme Preview" onerror="this.style.display='none'">
+<img src="https://i.ibb.co.com/G4P1MtjY/Screenshot-2.png" width="100%" alt="SoloTheme Preview" onerror="this.style.display='none'">
 <p><i>The Shadow Monarch Edition in action using Tektur Font.</i></p>
 </div>
 
