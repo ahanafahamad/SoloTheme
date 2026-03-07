@@ -10,9 +10,9 @@
 </p>
 
 <p>
-<a href="">🌐 Official Website</a> |
-<a href="">🛒 VS Code Marketplace</a> |
-<a href="">🐛 Report Bugs</a>
+<a href="https://code-monarch.gt.tc/#">🌐 Official Website</a> |
+<a href="https://marketplace.visualstudio.com/items?itemName=CodeMonarch.SoloTheme">🛒 VS Code Marketplace</a> |
+<a href="https://code-monarch.gt.tc/#report">🐛 Report Bugs</a>
 </p>
 </div>
 
