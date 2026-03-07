@@ -58,7 +58,7 @@ Select Install from VSIX... and upload the file.
 
 📜 License
 
-This project is licensed under the MIT License.
+This project is licensed under the [MIT License](./LICENSE.md).
 
 <div align="center">
 <p>Developed with ❤️ by <b>CodeMonarch</b></p>
