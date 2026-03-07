@@ -1,0 +1,23 @@
+{
+  "name": "SoloTheme",
+  "displayName": "SoloTheme - Shadow Monarch Edition",
+  "description": "Awaken your code. A high-contrast, professional dark theme inspired by the Shadow Monarch of Solo Leveling. Features a sleek cyan-and-purple color palette designed to reduce eye strain and provide an immersive 'S-Rank' development experience.",
+  "publisher": "AhanafAhamad",
+  "icon": "icon.png",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.109.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "SoloTheme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/SoloTheme-color-theme.json"
+      }
+    ]
+  }
+}

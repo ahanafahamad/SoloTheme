@@ -1,70 +1,16 @@
-<div align="center">
-<img src="./icon.png" width="128" height="128" alt="SoloTheme Logo" onerror="this.style.display='none'">
-<h1>SoloTheme: Shadow Monarch Edition</h1>
-<p><b>Awaken your code. Rule the shadows.</b></p>
+# SoloTheme README
 
-<p>
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Version-0.0.1-9D4EDD%3Fstyle%3Dfor-the-badge" alt="Version">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/License-MIT-00E5FF%3Fstyle%3Dfor-the-badge" alt="License">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Rank-S--Rank-black%3Fstyle%3Dfor-the-badge" alt="Rank">
-</p>
+## Working with Markdown
 
-<p>
-<a href="https://www.google.com/search?q=%23">🌐 Official Website</a> |
-<a href="https://www.google.com/search?q=%23">🛒 VS Code Marketplace</a> |
-<a href="https://www.google.com/search?q=%23">🐛 Report Bugs</a>
-</p>
-</div>
+You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
 
-🌑 The Concept
+* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
+* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
+* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
 
-SoloTheme is a premium, high-contrast dark theme for Visual Studio Code, meticulously crafted by CodeMonarch for developers who demand perfection. Inspired by the "Shadow Monarch" aesthetic, it balances deep obsidian tones with vibrant mana-infused accents to create a legendary coding environment.
+## For more information
 
-✨ S-Rank Features
+* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
+* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
 
-The Monarch's Palette: Deep obsidian backgrounds (#050608) paired with neon cyan (#00E5FF) and royal purple (#9D4EDD) syntax highlighting.
-
-Enhanced Focus: High-visibility UI elements designed to reduce eye strain during long "dungeon raids" (coding sessions).
-
-Precision Syntax: Lethal precision in code highlighting, making it easier to spot bugs and structure.
-
-Tektur Integration: Optimized to look exceptional with futuristic variable-width fonts.
-
-📸 Preview
-
-<div align="center">
-<img src="./thumblain/Screenshot (2).png" width="100%" alt="SoloTheme Preview" onerror="this.style.display='none'">
-<p><i>The Shadow Monarch Edition.</i></p>
-</div>
-
-🛠 Installation
-
-Via VS Code Marketplace
-
-Open VS Code.
-
-Go to Extensions (Ctrl+Shift+X).
-
-Search for SoloTheme or CodeMonarch.
-
-Click Install and select SoloTheme - Shadow Monarch Edition as your color theme.
-
-Via VSIX (Manual)
-
-Download the latest .vsix from our Releases.
-
-Inside VS Code, click the ... menu in the Extensions view.
-
-Select Install from VSIX... and upload the file.
-
-📜 License
-
-This project is licensed under the MIT License.
-
-<div align="center">
-<p>Developed with ❤️ by <b>CodeMonarch</b></p>
-<p><i>"The System has granted you a new power. Will you accept it?"</i></p>
-<p>
-<kbd> [ Yes ] </kbd> / <kbd> [ No ] </kbd>
-</p>
-</div>
+**Enjoy!**
