@@ -4,7 +4,7 @@
 <p><b>Awaken your code. Rule the shadows.</b></p>
 
 <p>
-<img src="https://img.shields.io/badge/version-0.0.1-blue" alt="Version">
+<img src="https://img.shields.io/badge/version-1.0.3-blue" alt="Version">
 <img src="https://img.shields.io/badge/license-MIT-red" alt="License">
 <img src="https://img.shields.io/badge/rank-S-yellow" alt="Rank">
 </p>
